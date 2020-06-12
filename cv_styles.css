@@ -1,0 +1,102 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(84, 84, 109);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.backgroung_container {
+    padding: 100px;
+}
+
+.title_container {
+    position: relative;
+    top: -650px;
+}
+
+h1 {
+    color:rgb(84, 84, 109);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 3px 3px whitesmoke;
+    text-align: right;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+
+h3 {
+    color:rgb(84, 84, 109);
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-top: 1em;  
+}
+
+p {
+    color:rgb(84, 84, 109);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile_container {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: -600px;
+    left: 5em;
+    background-color: rgba(181, 215, 218, 0.9);
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.skills_container {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: -48rem;
+    right: -36rem;
+    background-color: rgba(181, 215, 218, 0.9);
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.experience_container {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: -760px;
+    left: 5em;
+    background-color: rgba(181, 215, 218, 0.9);
+    padding-left: 1em;
+    padding-right: 1em;    
+}
+
+.interests_container {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: -58rem;
+    right: -36rem;
+    background-color: rgba(181, 215, 218, 0.9);
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.education_container {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: -920px;
+    left: 5em;
+    background-color: rgba(181, 215, 218, 0.9);
+    padding-left: 1em;
+    padding-right: 1em;    
+}
+
+.contact_container {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: -68rem;
+    right: -36rem;
+    padding-left: 1em;
+    padding-right: 1em;
+}
